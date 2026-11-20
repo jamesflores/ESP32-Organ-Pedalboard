@@ -1,8 +1,17 @@
 # ESP32-Organ-Pedalboard
 Convert a traditional 32-note organ pedalboard into a USB MIDI controller using an ESP32-S3 and an 8×4 diode matrix. A low-cost DIY solution compatible with Hauptwerk, GrandOrgue and other MIDI software.
 
-## Video
-[Watch the project video](https://youtu.be/AH8gw19Z8Lw)
+
+## 🎥 Watch the Build
+
+See how I converted an old 32-note Viscount Domus organ pedalboard into a fully working USB MIDI controller using a $15 ESP32-S3!
+
+The pedalboard works with MIDI-compatible virtual organ software, including Hauptwerk, Organteq and GrandOrgue.
+
+[![Watch the DIY MIDI Pedalboard Conversion](https://img.youtube.com/vi/AH8gw19Z8Lw/maxresdefault.jpg)](https://youtu.be/AH8gw19Z8Lw)
+
+**▶ [Watch the full build on YouTube](https://youtu.be/AH8gw19Z8Lw)**
+
 
 ## Hardware and wiring
 
